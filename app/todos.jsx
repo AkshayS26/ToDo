@@ -4,7 +4,7 @@ import { ToDoItem } from "../components/ServerComponent";
 
 const fetchTodo = async (token) => {
   try {
-    const res = await fetch(`http://localhost:3000/api/mytask`, {
+    const res = await fetch(`process.env.URL/api/mytask`, {
       cache: "no-cache",
       headers: {
         cookie: `token=${token}`,

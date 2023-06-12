@@ -1,5 +1,5 @@
 import "../styles/app.scss";
-import Header from "./Header";
+import Header from "./header";
 import { ContextProvider } from "../components/Client";
 
 export const metadata = {

@@ -50,4 +50,4 @@ Thank you for using the Todo app! We hope it helps you stay organized and produc
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Link of Project :- https://to-pxbnsc35m-akshays26.vercel.app/
+Link of Project :- https://to-do-six-beryl.vercel.app/login
